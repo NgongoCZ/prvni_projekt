@@ -172,12 +172,17 @@ footer{
 
 .contact{
     text-align: center;
+    padding-bottom: 10px;
 
 }
 
 .li_contact{
     display: inline;
     margin: 10px 60px;
+    text-decoration: none;
+    font-family: 'Pacifico', cursive;
+    color: rgb(135, 16, 172);
+    font-weight: bolder;
 }
 
 #species{
